@@ -1,0 +1,117 @@
+[
+    {
+        "name": "FRUIT SALAD",
+        "price": 245.67,
+        "description": "There are several home recipes for fruit salads that contains different kinds of fruit, or that use a different kind of sauce other than the fruit's juice or syrup. Common ingredients used in fruit salads include strawberries, pineapple, honeydew, watermelon, grapes, and kiwifruit.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/8.jpg"
+            }
+        ],
+        "category": "HealthyFoods",
+        "seller": "FREAKY DAZON",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "NAAN",
+        "price": 150.32,
+        "description": "Naan is a leavened, oven-baked or tawa-fried flatbread which is found in the cuisines mainly of Western Asia, Central Asia, Indian subcontinent, Indonesia.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "RoastFoods",
+        "seller": "Mc.DECKON",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "DHOSA",
+        "price": 40.57,
+        "description": "தமிழர்களிடையே பல பகுதிகளில் மிகவும் புகழ்பெற்ற உணவு,தோசை பொதுவாக வெண்மையான நிறத்தில் இருக்கும். வெந்தயம் - தோசை மாவில் வெந்தயம் சிறிது அளவு சேர்த்து அரைக்கப்படும் அதனால் தோசைக்கு சற்று சிவந்த நிறம் ஏற்படும். இது சேர்ப்பதால் உடலுக்கும் நல்லது குளிர்ச்சியை தரும் .",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Veg-Items",
+        "seller": "Tamilanam",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "IDLI",
+        "price": 25.45,
+        "description": "Idli or idly  is a type of savoury rice cake, originating from South India, popular as a breakfast food in Southern India and in Sri Lanka. The cakes are made by steaming a batter consisting of fermented black lentils (de-husked) and rice",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/4.jpg"
+          }
+        ],
+        "category": "Veg-Items",
+        "seller": "Tamilanam",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "PONGAL",
+        "price": 76.32,
+        "description": "varieties include venn (hot) pongal, sakkarai (sweet) pongal, and sanyasi pongal. It has been described as very dear to the Tamil people.",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/5.jpg"
+          }
+        ],
+        "category": "Veg-Items",
+        "seller": "Tamilanam",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Chicken Roast Fry",
+        "price": 175.46,
+        "description": "Fried chicken, also known as Southern fried chicken, is a dish consisting of chicken pieces that have been coated with seasoned flour or batter and pan-fried, deep fried, pressure fried, or air fried.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/6.jpg"
+            }
+        ],
+        "category": "NonVeg-Items",
+        "seller": "GY MaCRO",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Fish Fry",
+        "price": 160.12,
+        "description": "A fish fry is a meal containing battered or breaded fried fish. It usually also includes french fries, coleslaw, macaroni salad, lemon slices, tartar sauce, hot sauce, malt vinegar and dessert. Some Native American versions are cooked by coating fish with semolina and egg yolk.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/7.jpg"
+            }
+        ],
+       "category": "NonVeg-Items",
+        "seller": "GY MaCRO",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
